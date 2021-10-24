@@ -10,7 +10,7 @@ email: ejeong0915@naver.com
 blog: blog.naver.com/ejeong0915
 
 <h4 align=center>Techs that I've used at least once</h4>
-&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
