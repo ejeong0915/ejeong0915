@@ -18,7 +18,7 @@ blog: blog.naver.com/ejeong0915
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <br><a><img src="https://img.shields.io/badge/Node.js-04B431?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/html-blueviolet?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-src="https://img.shields.io/badge/CSS3-FFEB46?style=flat-square&logo=CSS3&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/CSS3-FFEB46?style=flat-square&logo=CSS3&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
