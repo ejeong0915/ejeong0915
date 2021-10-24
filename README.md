@@ -22,7 +22,7 @@ blog: blog.naver.com/ejeong0915
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/)
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-A2F5E6?style=flat-square&logo=Python&logoColor=white"> <img
+<img src="https://img.shields.io/badge/Python-A2F5E6?style=flat-square&logo=Python&logoColor=white">
 </p>
 
 <br>
