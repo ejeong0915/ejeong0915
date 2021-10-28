@@ -3,7 +3,7 @@
 
 I'm a FE Developer, loving to look around for something 'interesting'. 
 - 🎓 (2013.03 ~ 2017.02) Graduated from the Department of Software Major at **Ajou University**
-- 💻 (2021.~) **RIOT GAMES Korea** Software Developer
+- 💻 (2021.~) **RIOT GAMES Korea** Software Engineer (Backend)
 
 ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejeong0915&show_icons=true&theme=dracula)
 
