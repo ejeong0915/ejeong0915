@@ -1,4 +1,4 @@
-## 🐰 About Me 
+##  About Me 
 
 
 I'm a Back-end Developer, loving to look around for something 'interesting'. 
