@@ -9,7 +9,7 @@ I'm a Back-end Developer, loving to look around for something 'interesting'.
 
 ## Contact me ##
 email: ejeong0915@naver.com   
-blog: m.blog.naver.com/ejeong0915/
+blog: https://m.blog.naver.com/ejeong0915/
 
 <h4 align=center>Techs that I've used at least once</h4>
 
