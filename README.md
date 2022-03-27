@@ -1,7 +1,7 @@
 ##  About Me 
 
 
-I'm a Back-end Developer, loving to look around for something 'interesting'. 
+I'm a Full-Stack Developer, loving to look around for something 'interesting'. 
 - 🎓 (2013.03 ~ 2017.02) Graduated from the Department of Software Major at **Ajou University**
 - 💻 (2021.~) **RIOT GAMES Korea** Software Engineer (Backend)
 
